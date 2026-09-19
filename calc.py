@@ -48,4 +48,3 @@ def calculator():
             print(f"Result: {a} / {b} = {divide(a, b)}\n")
 
 calculator()
-jbhoihjh 
